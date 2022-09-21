@@ -37,6 +37,7 @@ if __name__ == "__main__":
         event.add("dtend", date_time + timedelta(hours=1))
         event.add("location", "17. listopadu 12 Olomouc, Czechia")
         event.add("URL", "https://www.inf.upol.cz/vyzkum/seminare")
+        event.add("description", f"room {place.strip()}")
 
         cal.add_component(event)
 
