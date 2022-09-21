@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+BEGIN:VTIMEZONE
+TZID:Europe/Prague
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Rozpoznávání regulárních vzorů s čítači - Lukáš Holík 
+ (VUT Brno)
+DTSTART;VALUE=DATE-TIME:20220922T120000
+DTEND;VALUE=DATE-TIME:20220922T130000
+LOCATION:17. listopadu 12 Olomouc\, Czechia
+URL:https://www.inf.upol.cz/vyzkum/seminare
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vyčíslitelnost fuzzy logiky nad Heytingovými algebrami - Jan La
+ štovička (Univerzita Palackého)
+DTSTART;VALUE=DATE-TIME:20221006T120000
+DTEND;VALUE=DATE-TIME:20221006T130000
+LOCATION:17. listopadu 12 Olomouc\, Czechia
+URL:https://www.inf.upol.cz/vyzkum/seminare
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kombinatorika na slovech a její formalizace v Isabelle/HOL - Št
+ ěpán Holub (Univerzita Karlova)
+DTSTART;VALUE=DATE-TIME:20221027T120000
+DTEND;VALUE=DATE-TIME:20221027T130000
+LOCATION:17. listopadu 12 Olomouc\, Czechia
+URL:https://www.inf.upol.cz/vyzkum/seminare
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nejjednodušší neregulární deterministický bezkontextový jaz
+ yk - Petr Jančar (Univerzita Palackého)
+DTSTART;VALUE=DATE-TIME:20221103T120000
+DTEND;VALUE=DATE-TIME:20221103T130000
+LOCATION:17. listopadu 12 Olomouc\, Czechia
+URL:https://www.inf.upol.cz/vyzkum/seminare
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Typičnost a související jevy I - Radim Bělohlávek\, Tomáš M
+ ikula (Univerzita Palackého)
+DTSTART;VALUE=DATE-TIME:20221110T120000
+DTEND;VALUE=DATE-TIME:20221110T130000
+LOCATION:17. listopadu 12 Olomouc\, Czechia
+URL:https://www.inf.upol.cz/vyzkum/seminare
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Typičnost a související jevy II - Radim Bělohlávek\, Tomáš 
+ Mikula (Univerzita Palackého)
+DTSTART;VALUE=DATE-TIME:20221124T120000
+DTEND;VALUE=DATE-TIME:20221124T130000
+LOCATION:17. listopadu 12 Olomouc\, Czechia
+URL:https://www.inf.upol.cz/vyzkum/seminare
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:O pojmu fuzzy uspořádání I - Radim Bělohlávek\, Tomáš Urba
+ nec (Univerzita Palackého)
+DTSTART;VALUE=DATE-TIME:20221201T120000
+DTEND;VALUE=DATE-TIME:20221201T130000
+LOCATION:17. listopadu 12 Olomouc\, Czechia
+URL:https://www.inf.upol.cz/vyzkum/seminare
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:O pojmu fuzzy uspořádání II - Radim Bělohlávek\, Tomáš Urb
+ anec (Univerzita Palackého)
+DTSTART;VALUE=DATE-TIME:20221208T120000
+DTEND;VALUE=DATE-TIME:20221208T130000
+LOCATION:17. listopadu 12 Olomouc\, Czechia
+URL:https://www.inf.upol.cz/vyzkum/seminare
+END:VEVENT
+END:VCALENDAR
